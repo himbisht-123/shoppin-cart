@@ -1,4 +1,4 @@
-// import logo from './logo.svg';
+// feature 1
 import React from 'react';
 
 function App() {
