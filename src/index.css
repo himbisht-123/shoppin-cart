@@ -120,3 +120,15 @@ button:hover{
 a{
   text-decoration: none;
 }
+
+/* filter*/
+.filter{
+  display: flex;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: .1rem solid #c0c0c0;
+  justify-content: space-between;
+}
+.filter div{
+  flex: 1;
+}
